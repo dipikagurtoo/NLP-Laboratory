@@ -1,12 +1,7 @@
 # NLP-Laboratory
 Various NLP Assignments from basic to advanced
 
-# Natural Language Processing Laboratory
-# Assignment - 1
-
-
-# Submitted By: DIPIKA GURTU
-# Roll No.: 2018IMT-029
+# Natural Language Processing Laboratory Assignment - 1
 
 Objective: 
 Use the NLTK Toolkit for demonstrating the Word Tokenization and Sentence Tokenization text pre-processing techniques in NLP.
