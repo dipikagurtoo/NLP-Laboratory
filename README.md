@@ -28,16 +28,6 @@ Tree bank is a corpus created which gives the semantic and syntactic annotation 
 
 Input: The input has been taken from https://www.kaggle.com/c/nlp-getting-started. It is shown in tabular form in the Figure 1. 
 
-Figure 1. Input Data in Tabular format
-
-
-Output: 
-
-Sentence Tokenization:
-
-
-Word Tokenization:
- 
 
 Conclusion: 
 The tokenization is the first & the foremost step in text preprocessing.
